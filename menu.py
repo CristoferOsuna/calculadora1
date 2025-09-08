@@ -28,7 +28,8 @@ while True:
         print(f"Resultado:= {restar(num1, num2)}")
 
 
-        #Multiplicacion y Division 
+
+#Multiplicacion y Division 
 
 def multiplicacion (num1, num2):
     return num1*num2
